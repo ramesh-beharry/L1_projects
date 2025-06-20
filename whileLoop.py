@@ -1,4 +1,7 @@
 def debugging_assistant():
+
+
+    print("Provides interactive debugging advice based on user's selection. The user can repeatedly ask for advice until they decide to stop.")
     """
     Provides interactive debugging advice based on user's selection.
     The user can repeatedly ask for advice until they decide to stop.
@@ -53,5 +56,4 @@ def debugging_assistant():
 
 # To run the function:
 debugging_assistant()
-
 
